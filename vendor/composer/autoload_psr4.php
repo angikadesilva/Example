@@ -18,6 +18,7 @@ return array(
     'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-factory/src', $vendorDir . '/psr/http-message/src'),
     'Psr\\Http\\Client\\' => array($vendorDir . '/psr/http-client/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
+    'PhpParser\\' => array($vendorDir . '/nikic/php-parser/lib/PhpParser'),
     'PhpOption\\' => array($vendorDir . '/phpoption/phpoption/src/PhpOption'),
     'Nyholm\\Psr7\\' => array($vendorDir . '/nyholm/psr7/src'),
     'MailerSend\\' => array($vendorDir . '/mailersend/mailersend/src'),
@@ -30,6 +31,7 @@ return array(
     'Http\\Client\\' => array($vendorDir . '/php-http/httplug/src'),
     'GrahamCampbell\\ResultType\\' => array($vendorDir . '/graham-campbell/result-type/src'),
     'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
+    'DeepCopy\\' => array($vendorDir . '/myclabs/deep-copy/src/DeepCopy'),
     'Clue\\StreamFilter\\' => array($vendorDir . '/clue/stream-filter/src'),
     'Assert\\' => array($vendorDir . '/beberlei/assert/lib/Assert'),
 );

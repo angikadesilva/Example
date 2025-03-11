@@ -9,5 +9,8 @@
         "mailersend/mailersend": "^0.30.0",
         "symfony/http-client": "^7.2",
         "nyholm/psr7": "^1.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10"
     }
 }
